@@ -19,4 +19,7 @@ for x in [1,2,'a']:
     print(x)
 for x in "hey":
     print(x)
+for x in range(1,30):
+    print(x, end=" ") if x%3==0 else print("n", end= " ")
+
 
