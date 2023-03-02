@@ -1,2 +1,0 @@
-x1,y1 = input("enter first point")
-x2,y2 = input("enter second point")
